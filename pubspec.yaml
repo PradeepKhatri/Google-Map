@@ -44,6 +44,9 @@ dependencies:
   provider: ^6.1.2
   http: ^1.2.1
   uuid: ^4.3.3
+  flutter_typeahead: ^5.2.0
+  google_places_flutter: ^2.0.8
+  get: ^4.1.4
 
 dev_dependencies:
   flutter_test:
